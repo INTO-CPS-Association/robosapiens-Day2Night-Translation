@@ -1,8 +1,6 @@
-# Enhancing Unpaired Day-to-Night Image-to-Image Translation via Inverse Rendering
+# RoboSAPIENS-Day2Night: INTO-CPS Case Study for Day-to-Night Image Translation
 
-Day2Night-Translation is an open-source tool for **unpaired day-to-night image-to-image translation using inverse rendering**, based on the work *Enhancing Unpaired Day-to-Night Image-to-Image Translation via Inverse Rendering* by Stefanos Pasios and Nikos Nikolaidis (EUSIPCO 2026). It generates additional scene representations from daytime RGB images and uses them to guide translation toward nighttime appearance while better preserving scene semantics.
-
-The original implementation is available at [stefanos50/Day2Night-Translation](https://github.com/stefanos50/Day2Night-Translation). This repository presents the tool within the RoboSAPIENS and INTO-CPS tool collection.
+RoboSAPIENS-Day2Night presents an open-source tool for **unpaired day-to-night image-to-image translation using inverse rendering**, based on the work *Enhancing Unpaired Day-to-Night Image-to-Image Translation via Inverse Rendering* by Stefanos Pasios and Nikos Nikolaidis (EUSIPCO 2026). It generates additional scene representations from daytime RGB images and uses them to guide translation toward nighttime appearance while better preserving scene semantics.
 
 ---
 
@@ -230,6 +228,12 @@ This tool is presented as part of the **RoboSAPIENS** project (*Robotic Safe Ada
 <p align="center">
   <img src="https://robosapiens-eu.tech/wp-content/uploads/elementor/thumbs/full_robot2-r2pgiiysrgwxbxr64iuhw1nmi4k46lxqopg2va2qos.png" alt="RoboSAPIENS logo" width="80" />
 </p>
+
+---
+
+## Relationship to the research repository
+
+This INTO-CPS case-study presentation is based on the same inverse-rendering and day-to-night image translation implementation as the [original research repository](https://github.com/stefanos50/Day2Night-Translation). The existing Python entry points for preparing training data and performing image or video inference, along with their configuration options and execution commands below, are intentionally unchanged. The adaptations concern the README and repository metadata for presentation within the RoboSAPIENS and INTO-CPS tool collection.
 
 ---
 
