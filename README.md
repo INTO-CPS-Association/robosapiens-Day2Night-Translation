@@ -1,6 +1,6 @@
-# RoboSAPIENS-Day2Night: INTO-CPS Case Study for Day-to-Night Image Translation
+# Enhancing Unpaired Day-to-Night Image-to-Image Translation via Inverse Rendering
 
-RoboSAPIENS-Day2Night is an open-source tool for **unpaired day-to-night image-to-image translation using inverse rendering**, based on the work *Enhancing Unpaired Day-to-Night Image-to-Image Translation via Inverse Rendering* by Stefanos Pasios and Nikos Nikolaidis (EUSIPCO 2026). It generates additional scene representations from daytime RGB images and uses them to guide translation toward nighttime appearance while better preserving scene semantics.
+Day2Night-Translation is an open-source tool for **unpaired day-to-night image-to-image translation using inverse rendering**, based on the work *Enhancing Unpaired Day-to-Night Image-to-Image Translation via Inverse Rendering* by Stefanos Pasios and Nikos Nikolaidis (EUSIPCO 2026). It generates additional scene representations from daytime RGB images and uses them to guide translation toward nighttime appearance while better preserving scene semantics.
 
 The original implementation is available at [stefanos50/Day2Night-Translation](https://github.com/stefanos50/Day2Night-Translation). This repository presents the tool within the RoboSAPIENS and INTO-CPS tool collection.
 
