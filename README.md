@@ -219,16 +219,6 @@ The project incorporates or relies upon components from third-party repositories
 
 This tool is presented as part of the **RoboSAPIENS** project (*Robotic Safe Adaptation In Unprecedented Situations*), funded by the European Union's Horizon Europe research and innovation programme under grant agreement **No. 101133807**. The views and opinions expressed are those of the authors and do not necessarily reflect those of the European Union or the European Commission.
 
-<p align="center">
-  <a href="https://robosapiens-eu.tech/">
-    <img src="https://robosapiens-eu.tech/wp-content/uploads/elementor/thumbs/europeanlogo-r2pgiiytkuoyehehz8416uvf52f3bxv6hkmztxq1am.jpeg" alt="European Union flag" width="120" />
-  </a>
-</p>
-<p align="center">Learn more about <a href="https://robosapiens-eu.tech/">RoboSAPIENS</a>.</p>
-<p align="center">
-  <img src="https://robosapiens-eu.tech/wp-content/uploads/elementor/thumbs/full_robot2-r2pgiiysrgwxbxr64iuhw1nmi4k46lxqopg2va2qos.png" alt="RoboSAPIENS logo" width="80" />
-</p>
-
 ---
 
 ## Citation
