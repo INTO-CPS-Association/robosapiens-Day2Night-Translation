@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this repository in your research, please cite the original EUSIPCO 2026 paper."
+title: "Enhancing Unpaired Day-to-Night Image-to-Image Translation via Inverse Rendering"
+type: software
+authors:
+  - family-names: Pasios
+    given-names: Stefanos
+  - family-names: Nikolaidis
+    given-names: Nikos
+repository-code: https://github.com/stefanos50/Day2Night-Translation
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Enhancing Unpaired Day-to-Night Image-to-Image Translation via Inverse Rendering"
+  authors:
+    - family-names: Pasios
+      given-names: Stefanos
+    - family-names: Nikolaidis
+      given-names: Nikos
+  conference:
+    name: "2026 34th European Signal Processing Conference (EUSIPCO)"
+  year: 2026
+  start: 616
+  end: 620

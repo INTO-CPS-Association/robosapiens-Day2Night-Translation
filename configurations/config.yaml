@@ -1,0 +1,35 @@
+# config.yaml
+
+tool_settings:
+  mode: process #infer or process
+
+results_settings:
+  translated_images_path: ./results/
+
+model_settings:
+  translation_model: ./models/cs2dark.onnx
+  normal_estimation_device: cuda:0
+  depth_estimation_device: cuda:0
+  segformer_device: cuda:0
+  albedo_shading_estimation_device: cuda:0
+  shadows_estimation_device: cuda:0
+  
+image_settings:
+  width: 957
+  height: 526
+
+dataset_settings:
+  images_path: ./images/ #images and labels should have identical name and extension
+  labels_path: ./labels/
+  predict_labels: False #if predict labels is true then labels_path will not be used
+  processed_dataset_path: ./EPE_Dataset/
+
+video_settings:
+  video_path: ./2025-07-22 00-52-46.mkv
+  video_fps: 30
+  video_export_path: ./translated_video.mp4
+
+realtime:
+  window_name: Grand Theft Auto V
+  capture_window: False
+  
