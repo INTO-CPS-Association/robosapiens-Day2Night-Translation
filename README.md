@@ -231,12 +231,6 @@ This tool is presented as part of the **RoboSAPIENS** project (*Robotic Safe Ada
 
 ---
 
-## Relationship to the research repository
-
-This INTO-CPS case-study presentation is based on the same inverse-rendering and day-to-night image translation implementation as the [original research repository](https://github.com/stefanos50/Day2Night-Translation). The existing Python entry points for preparing training data and performing image or video inference, along with their configuration options and execution commands below, are intentionally unchanged. The adaptations concern the README and repository metadata for presentation within the RoboSAPIENS and INTO-CPS tool collection.
-
----
-
 ## Citation
 
 If you use this tool or its underlying method in your research, please cite the original publication:
